@@ -8,6 +8,6 @@ About me:
 - 🔭 I’m currently working with React, .NET, MySQL, Azure DevOps.
 - 🥋 Training on HackerRank.
 - 🌱 I’m learning Kotlin, NodeJS at the moment.
-- ⚡ I'm getting better my skills (JavaScript, .NET, Java)
+- ⚡ I'm getting better my skills (React, .NET, Java)
 - 😄 I love connecting with different people.
 - 📫 Reach me on [Linkedin.](https://www.linkedin.com/in/wilder-mancera-909907223/)
