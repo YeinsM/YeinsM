@@ -5,7 +5,7 @@ I'm a passionate FullStack Web Developer, I enjoy working with different tehcnol
 About me:
 
 - 🗺 I'm from Colombia, currently living in Republica Dominicana.
-- 🔭 I’m currently working with React, .NET, MySQL, Azure DevOps.
+- 🔭 I’m currently working with React, .NET, Microsoft SQL, Azure DevOps.
 - 🥋 Training on HackerRank.
 - 🌱 I’m learning Kotlin, NodeJS at the moment.
 - ⚡ I'm getting better my skills (React, .NET, Java)
