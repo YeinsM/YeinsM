@@ -6,7 +6,7 @@ About me:
 
 - 🗺 I'm from Colombia, currently living in Republica Dominicana.
 - 🔭 I’m currently working with React, .NET, Microsoft SQL, Azure DevOps.
-- 🥋 Training on HackerRank.
+- 🥋 Training on Pluralsight and HackerRank.
 - 🌱 I’m learning Kotlin, NodeJS at the moment.
 - ⚡ I'm getting better my skills (React, .NET, Java)
 - 😄 I love connecting with different people.
