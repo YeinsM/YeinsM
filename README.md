@@ -10,4 +10,4 @@ About me:
 - 🌱 I’m learning Kotlin, NodeJS at the moment.
 - ⚡ I'm getting better my skills (React, .NET, Java)
 - 😄 I love connecting with different people.
-- 📫 Reach me on [Linkedin.](https://www.linkedin.com/in/wilder-mancera-909907223/)
+- 📫 Reach me on [Linkedin.](https://www.linkedin.com/in/wilder-mancera/)
