@@ -1,6 +1,6 @@
 ### Hi there, 👋 I'm Wilder Mancera
 
-I'm a passionate FullStack Web Developer, I enjoy working with different tehcnologies (JavaScript, React, Angular, Java, .NET, C#, MongoDB, MySQL). I'm committed to my self taught, I'm a good solver problems and love new challenges for my carreer.
+I'm a passionate FullStack Web Developer, I enjoy working with different tehcnologies (JavaScript, React, Angular, Java, .NET, C#, MongoDB, Microsoft SQL Server). I'm committed to my self taught, I'm a good solver problems and love new challenges for my carreer.
 
 About me:
 
