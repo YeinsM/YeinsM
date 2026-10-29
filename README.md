@@ -12,7 +12,7 @@ I connect every part of a product: **how it looks, how people use it, and how it
 
 | Area | Technologies & practices |
 | --- | --- |
-| Backend | C# · .NET / ASP.NET Core · Node.js |
+| Backend | C# · .NET / ASP.NET Core · Node.js · Node.js |
 | Frontend | Angular · React · JavaScript |
 | Databases | SQL Server · PostgreSQL · MongoDB |
 | Business applications | Microsoft Dynamics 365 Business Central · AL · Custom extensions & integrations |
